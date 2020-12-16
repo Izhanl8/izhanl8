@@ -1,15 +1,14 @@
 ![](https://cdn.discordapp.com/attachments/783326808447254538/788203630700396584/Welcome_to_my_Github.png)
 
-Muchos proyectos en mente!
-
+![Profile views](https://gpvc.arturio.dev/izhanl8)  
 Habilidades: JavaScript, HTML, HTML5, CSS, Node.JS, Jquery
 
-- 🔭 Estoy trabajando en mi bot de discord 
-- 🌱 Estoy aprendiendo Python, php y arch linux 
+- 👨‍💻 Estoy trabajando en mi bot de discord 
+- 🧠 Estoy aprendiendo Python, php y arch linux 
 - 💬 Pregúntame acerca de lo que necesites! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/izhanl8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/izhan.l8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://izhanl8.glitch.me/)  
+ 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=izhanl8)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -21,4 +20,6 @@ Habilidades: JavaScript, HTML, HTML5, CSS, Node.JS, Jquery
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=izhanl8)  
 
-![Profile views](https://gpvc.arturio.dev/izhanl8)  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/izhanl8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/izhan.l8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://izhanl8.glitch.me/) 
