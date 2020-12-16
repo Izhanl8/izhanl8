@@ -6,6 +6,8 @@ Habilidades: JavaScript, HTML, HTML5, CSS, Node.JS, Jquery
 - 👨‍💻 Estoy trabajando en mi bot de discord 
 - 🧠 Estoy aprendiendo Python, php y arch linux 
 - 💬 Pregúntame acerca de lo que necesites! 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izhanl8)](https://github.com/anuraghazra/github-readme-stats)
 
 
