@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/izhanl8)  
 Habilidades: JavaScript, HTML, HTML5, CSS, Node.JS, Jquery
 
-- 👨‍💻 Estoy trabajando en mi bot de discord 
+- 👨‍💻 Estoy trabajando en muchos proyectos
 - 🧠 Estoy aprendiendo Python, php y arch linux 
 - 💬 Pregúntame acerca de lo que necesites! 
 
