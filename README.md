@@ -1,5 +1,3 @@
-![](https://cdn.discordapp.com/attachments/762018045970612285/854137516188893224/banner2.png)
-
 ![Profile views](https://gpvc.arturio.dev/izhanl8)  
 Habilidades: JavaScript, HTML, HTML5, CSS, Node.JS, Jquery
 
