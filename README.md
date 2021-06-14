@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/[izhan.l8])
+![Profile views](https://gpvc.arturio.dev/izhanl8)
 
 Habilidades: JavaScript, HTML, HTML5, CSS, Node.JS, Jquery
 
